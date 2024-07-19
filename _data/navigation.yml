@@ -7,4 +7,5 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-   
+  - title: "Education"
+    url: /education/
