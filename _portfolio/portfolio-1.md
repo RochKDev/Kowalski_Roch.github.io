@@ -1,3 +1,4 @@
+---
 title: "MangaLib"
 excerpt: "Android app for tracking and discovering mangas<br/><img src='https://imgur.com/e88sFeB' style='width:650px;'>"
 collection: portfolio
