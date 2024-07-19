@@ -1,6 +1,6 @@
 ---
 title: "MangaLib"
-excerpt: "Android app for tracking and discovering mangas<br/><img src='https://imgur.com/e88sFeB' style='width:650px;'>"
+excerpt: "Android app for tracking and discovering mangas<br/><img src='https://imgur.com/e88sFeB.png' style='width:650px;'>"
 collection: portfolio
 ---
 
@@ -30,3 +30,17 @@ MangaLib is an Android mobile application that lets the user track best rated ma
 - Searching any manga.
 
 ## Screenshots
+
+![Library](https://imgur.com/e88sFeB.png)
+
+![Favourites](https://imgur.com/TgzN204.png)
+
+![Top Rated](https://imgur.com/z4UsdXX.png)
+
+![Most Followed](https://imgur.com/undefined.png)
+
+![Releases](https://imgur.com/AD6Au6v.png)
+
+![Search](https://imgur.com/undefined.png)
+
+![Sign in](https://imgur.com/undefined.png)
