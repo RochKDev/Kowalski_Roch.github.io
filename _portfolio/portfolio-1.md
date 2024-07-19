@@ -6,7 +6,7 @@ collection: portfolio
 
 MangaLib is an Android mobile application that lets the user track best rated mangas, most followed mangas, manage his library of mangas and his favourite ones. The app uses the [Mangadex API](https://api.mangadex.org/docs/) and for the database it uses [Firebase](https://firebase.google.com).
 
-### [Git repository here](github.com/RochKDev/MangaLib)
+### [Git repository here](https://github.com/RochKDev/MangaLib)
 
 ## Tech Stack
 
@@ -41,6 +41,6 @@ MangaLib is an Android mobile application that lets the user track best rated ma
 
 ![Releases](https://imgur.com/AD6Au6v.png)
 
-![Search](https://imgur.com/undefined.png)
+![Search](https://imgur.com/3vElC1C.png)
 
-![Sign in](https://imgur.com/undefined.png)
+![Sign in](https://imgur.com/3xU1Obe.png)
