@@ -1,6 +1,6 @@
 ---
-title: "Stib itinerary planner"
-excerpt: "Desktop application for planning an itinerary in Brussels' metro system.<br/><img src='https://imgur.com/bxny6Qa.png' style='width:650px;'>"
+title: "Tetris"
+excerpt: "Basic Tetris desktop game implemented from scratch<br/><img src='https://imgur.com/562SoBb.png' style='width:650px;'>"
 collection: portfolio
 ---
 
@@ -24,6 +24,16 @@ Stib itinerary planner is a desktop application that lets the user pick between 
 
 ## Screenshots
 
-![Main view](https://imgur.com/bxny6Qa.png)
+![Main view](https://imgur.com/562SoBb.png)
 
-![Select options](https://imgur.com/qyiYAuU.png)
+![Select options](https://imgur.com/1vbmxAY.png)
+
+![Gameplay](https://imgur.com/90cQ1Dw.png)
+
+![Game over](https://imgur.com/ww2iLVb.png)
+
+![Win](https://imgur.com/ERQ0bdq.png)
+
+![Base console](https://imgur.com/in3pfsW.png)
+
+![Base console game](https://imgur.com/HhWZcBg.png)
