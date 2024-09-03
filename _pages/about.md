@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-👨‍💻 I am a final year Software engineer at the HE2B-ESI.
+A Polish 🇵🇱 / Belgian 🇧🇪 Software Engineer student, passionate about programming and Japan 🇯🇵 currently living in Belgium.
 
-🔬 My interest lies in developing applications that help solve everyday problems.
-
-📚 I am currently pursuing a Bachelor's degree in Software Engineering.
-
-🇯🇵  I am very passionate about Japan and am working towards my goal of visiting there one day.
-
+* 🌍  I'm based in Brussels, Belgium 🇧🇪
+* ✉️  You can contact me at [kowalski.rochpro@gmail.com](mailto:kowalski.rochpro@gmail.com)
+* 🚀  I'm currently working on [Warranty Manager](https://github.com/RochKDev/warranty_manager)
+* 🧠  I'm learning React, Redux, Spring Boot
+* ⚡  I'm learning Japanese to become nihongo jouzu.
