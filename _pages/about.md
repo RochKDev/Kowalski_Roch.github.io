@@ -14,3 +14,4 @@ A Polish 🇵🇱 / Belgian 🇧🇪 Software Engineer student, passionate about
 * 🚀  I'm currently working on [Warranty Manager](https://github.com/RochKDev/warranty_manager)
 * 🧠  I'm learning React, Redux, Spring Boot
 * ⚡  I'm learning Japanese to become nihongo jouzu.
+* 
